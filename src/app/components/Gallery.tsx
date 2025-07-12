@@ -7,11 +7,11 @@ import third from "@/app/components/assets/fourth.jpg";
 const images = [
   {
     src: first,
-    message: "Our first date 💑"
+    message: "That cute pout you make 😘"
   },
   {
     src: second,
-    message: "That cute pout you make 😘"
+    message: "Together in prayers, forever in love 💞🙏"
   },
   {
     src: third,

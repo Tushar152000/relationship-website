@@ -7,41 +7,38 @@ export default function LoveLetter() {
       <h2 className="text-3xl font-semibold text-pink-700 mb-6">
         A Letter To My Gungun 💌
       </h2>
-      <div className="max-w-2xl mx-auto  text-gray-700 text-[18px] text-center leading-relaxed space-y-6">
+      <div className="max-w-2xl mx-auto text-gray-700 text-[18px] text-center leading-relaxed space-y-6">
         <p>
-          You deserve to be the first to know...
-          <br />
-          Jaanu, you're my everything in my life, Tumhare bina main kuch nahi
-          hoon. Tumhare saath hi main hansta hoon, tumhare saath hi main rota
-          hoon. Tumhare saath hi main naraz hota hoon, tumhare khyaal se hi main
-          sota hoon. Tum nahi toh main nahi.
+          These past 5 months have felt nothing short of magical. Honestly, it
+          feels like I'm unofficially married to you, baby. And every single
+          day, I find myself more grateful than the last.
         </p>
         <p>
-          Gungun, I notice every single thing – like when we go home and pass
-          the colony board, I’ve seen you every time, crossing your fingers and
-          praying for us. I can’t tell you how that makes me feel. It brings
-          tears in my eyes... (in a good way).
+          I still don’t know how someone so calm, so beautiful, and so pure
+          chose a clumsy, overthinking guy like me. But you did. And baby, you
+          have no idea how much love, warmth, and respect you give me—every
+          single day. It genuinely feels like all my prayers were answered the
+          moment you entered my life.
         </p>
         <p>
-          I can manifest everything – like your first steps in our first deep
-          comfy house after our pooja, and then we hug and say “Baby, we did it”
-          – and I promise, baby, we’ll definitely do it.
+          Even my mom says, “Gungun is incredibly beautiful” (no nazar, please
+          😄). And I can see how deeply she loves you—maybe even more than me.
+          Because she knows her son is finally in the right hands.
         </p>
         <p>
-          Gungun, your man Tushar loves you the most. You can fit in my eyes.
-          You are the only and last gift in my life. I’ll do everything, Jaanu.
-          Bas mera saath mat chhodna.
+          Gungun, your beauty isn’t just skin deep—it's the way you think, the
+          way you care, the way you love. You’re beautiful inside and out. From
+          the very moment you stepped into my life, everything changed. You
+          brought luck, love, and light. You're truly my lady luck.
         </p>
         <p>
-          Now I think we can wear this bracelet. And I promise: “You’ll never
-          see this bracelet off from my hand.” It will always be there on my
-          right hand, until and unless I marry you, baby.
+          Happy 5th, my girl. You’re not just my girlfriend, you're my forever.
+          My love for you grows every day, and I’ll never stop being grateful
+          for you. Here's to us, always.
         </p>
         <p>
-          And yes… I love you the most, Jaanu. Main kabhi bhi tumhara saath nahi
-          chhodunga — until our last breath.
-          <br />
-          (Sheer → meow meow... 🐾)
+          With all my heart,
+          <br />— Tushar ❤️
         </p>
       </div>
     </div>
